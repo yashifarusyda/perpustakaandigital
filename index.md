@@ -11,6 +11,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [Berbagi Faedah Fikih Puasa](ebook/Berbagi Faedah Fikih Puasa) - Muhammad Abduh Tuasikal (2019)
 8. [Pendidikan Fisika Lingkungan](ebook/Pendidikan Fisika Lingkungan) - Ivanzieo Viooli S (2019)
 9. [Kajian Puisi](ebook/Kajian Puisi) - Ade Hikmat (2017)
-10. Contoh buku lain
+10. [Pengantar Komputer Desain Grafis](ebook/Pengantar Komputer Desain Grafis) -  Andreas James Darmawan (2018)
+11. Contoh buku lain
 ---
 *Powered by GitHub Pages*
