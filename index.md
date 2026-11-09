@@ -7,6 +7,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 3. [Bulan](ebook/Bulan.pdf) – Tere Liye (2015)
 4. [Yang Fana adalah Waktu](ebook/Yang Fana adalah Waktu.pdf) – Sapardi Djoko Darmono (2018)
 5. [The Falling Leaf Never Hates](ebook/The Falling Leaf Never Hates.pdf) - Tere Liye (2015)
-6. Contoh buku lain
+6. [Sejarah Indonesia](ebook/Sejarah Indonesia) - Amurwani Dwi L (2013)
+7. Contoh buku lain
 ---
 *Powered by GitHub Pages*
