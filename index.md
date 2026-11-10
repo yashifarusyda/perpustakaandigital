@@ -1,4 +1,7 @@
 # Digital Library
+Nama: Yashifa' Al Afina Rusyda
+NIM: 13040124140154
+Kelas: D
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
