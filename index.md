@@ -12,6 +12,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Pendidikan Fisika Lingkungan](ebook/Pendidikan Fisika Lingkungan.pdf) - Ivanzieo Viooli S (2019)
 9. [Kajian Puisi](ebook/Kajian Puisi.pdf) - Ade Hikmat (2017)
 10. [Pengantar Komputer Desain Grafis](ebook/Pengantar Komputer Desain Grafis.pdf) -  Andreas James Darmawan (2018)
-11.[Rangkuman UGC](ebook/Rangkuman UGC.pdf) - Yashifa Al Afina Rusyda (2026) 
+11. [Rangkuman UGC](ebook/Rangkuman UGC.pdf) - Yashifa Al Afina Rusyda (2026) 
 ---
 *Powered by GitHub Pages*
