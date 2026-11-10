@@ -1,8 +1,7 @@
+#### Identitas
+Nama: Yashifa' Al Afina Rusyda (13040124140154) D
 # Digital Library
-1. Nama: Yashifa' Al Afina Rusyda
-2. NIM: 13040124140154
-3. Kelas: D
-   Selamat Datang di Perpustakaan Digital
+Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [Filosofi Teras](ebook/Filosofi Teras.pdf) – Henry Manampiring (2018)
